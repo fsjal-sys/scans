@@ -1,0 +1,29 @@
+[
+{   "ip": "130.63.63.94",   "timestamp": "1692979161", "ports": [ {"port": 143, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 59} ] }
+,
+{   "ip": "130.63.110.87",   "timestamp": "1692979161", "ports": [ {"port": 143, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 62} ] }
+,
+{   "ip": "130.63.127.18",   "timestamp": "1692979162", "ports": [ {"port": 143, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 61} ] }
+,
+{   "ip": "130.63.111.52",   "timestamp": "1692979162", "ports": [ {"port": 143, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 61} ] }
+,
+{   "ip": "130.63.94.75",   "timestamp": "1692979162", "ports": [ {"port": 143, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 61} ] }
+,
+{   "ip": "130.63.21.11",   "timestamp": "1692979162", "ports": [ {"port": 143, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 123} ] }
+,
+{   "ip": "130.63.127.19",   "timestamp": "1692979162", "ports": [ {"port": 143, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 61} ] }
+,
+{   "ip": "130.63.127.18",   "timestamp": "1692979167", "ports": [ {"port": 143, "proto": "tcp", "service": {"name": "imap", "banner": "* OK"} } ] }
+,
+{   "ip": "130.63.94.75",   "timestamp": "1692979167", "ports": [ {"port": 143, "proto": "tcp", "service": {"name": "imap", "banner": "* OK"} } ] }
+,
+{   "ip": "130.63.21.11",   "timestamp": "1692979167", "ports": [ {"port": 143, "proto": "tcp", "service": {"name": "imap", "banner": "* OK"} } ] }
+,
+{   "ip": "130.63.127.19",   "timestamp": "1692979167", "ports": [ {"port": 143, "proto": "tcp", "service": {"name": "imap", "banner": "* OK"} } ] }
+,
+{   "ip": "130.63.111.52",   "timestamp": "1692979167", "ports": [ {"port": 143, "proto": "tcp", "service": {"name": "imap", "banner": "* OK"} } ] }
+,
+{   "ip": "130.63.110.87",   "timestamp": "1692979168", "ports": [ {"port": 143, "proto": "tcp", "service": {"name": "imap", "banner": "* OK"} } ] }
+,
+{   "ip": "130.63.63.94",   "timestamp": "1692979173", "ports": [ {"port": 143, "proto": "tcp", "service": {"name": "unknown", "banner": "%DCL-W-UNDSYM, undefined symbol - check validity and spelling \u005cXDVI_STATUS\u005c%SYSTEM-F-ACCVIO, access violation, reason mask=00, virtual address=0000000000000000, PC=00000000000C3540, PS=0000001B  Improperly handled condition, image exit forced.    Signal arguments:   Number = 0000000000000005                        Name   = 000000000000000C                                 0000000000000000                                 0000000000000000                                 00000000000C3540                                 000000000000001B    Register dump:    R0  = 0000000000000010  R1  = 0000000000000001  R2  = 0000000000010150    R3  = 0000000000000000  R4  = 00000000000315C7  R5  = 0000000000000005    R6  = 00000000000A0830  R7  = 00000000000AAFF8  R8  = 0000000000000000    R9  = 000000007FF9DDF0  R10 = 000000007FFA4F28  R11 = 000000007FFCDC18    R12 = 000000007ACF3B58  R13 = 0000000000030220  R14 = 0000000000000000    R15 = 000000007AECA9F0  R16 = 0000000000000000  R17 = 00000000000AB844    R18 = 0000000000000000  R19 = 0000000000000025  R20 = 00000000000315C1    R21 = 0000000000000000  R22 = 0000000000000000  R23 = 0000000000000000    R24 = 0000000000158364  R25 = 0000000000000002  R26 = 00000000000C37B8    R27 = 000000000001D990  R28 = 00000000000C37A0  R29 = 000000007ACF33F0    SP  = 000000007ACF33F0  PC  = 00000000000C3540  PS  = 300000000000001B  SYSTEM       job terminated at 25-AUG-2023 11:04:32.39"} } ] }
+]

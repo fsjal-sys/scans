@@ -1,0 +1,977 @@
+[
+{   "ip": "130.63.104.6",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5054 1.21 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP 5054"} } ] }
+,
+{   "ip": "130.63.104.6",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.105.211",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:VNB3S66456,FN:0440S6X,SVCID:33075,PID:HP Color LaserJet M255dw\u000asysName:ak-psyc-bsb-hp4350n"} } ] }
+,
+{   "ip": "130.63.105.211",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.34.134",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Linux PartedMagic 5.15.0-46-generic #49-Ubuntu SMP Thu Aug 4 18:03:25 UTC 2022 x86_64\u000asysName:PartedMagic"} } ] }
+,
+{   "ip": "130.63.34.134",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.179.21",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C4504\u000asysName:MP C4504 E-23C"} } ] }
+,
+{   "ip": "130.63.179.21",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.47",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD128,EEPROM V.33.15,CIDATE 11/10/2006\u000asysName:SB-N303K-HP-LaserJet-4350"} } ] }
+,
+{   "ip": "130.63.129.47",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.141.231",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23900044,CIDATE 02/11/2022\u000asysName:brg320"} } ] }
+,
+{   "ip": "130.63.141.231",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.232.26",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Linux Elaina 3.14.32 #002.1614A Wed Mar 30 15:02:27 PDT 2016 armv7l\u000asysName:Elaina"} } ] }
+,
+{   "ip": "130.63.232.26",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.35",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM P.22.01,JETDIRECT,JD86,EEPROM P.24.07,CIDATE 12/13/2002\u000asysName:SB-N305A"} } ] }
+,
+{   "ip": "130.63.129.35",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.163.28",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 6055 1.27 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP 6055"} } ] }
+,
+{   "ip": "130.63.163.28",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.234.20",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C3000 2.20 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:IM C3000"} } ] }
+,
+{   "ip": "130.63.234.20",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.160.18",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH Aficio MP 5002 2.11 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:Aficio MP 5002"} } ] }
+,
+{   "ip": "130.63.160.18",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.164.55",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23500060,CIDATE 03/18/2015\u000asysName:NPI13693E"} } ] }
+,
+{   "ip": "130.63.164.55",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.179.14",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23e80125,CIDATE 07/11/2016\u000asysName:Design_MDes_Studio"} } ] }
+,
+{   "ip": "130.63.179.14",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.20.229",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.20.229",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.45.20",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 3555 1.13 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 3555"} } ] }
+,
+{   "ip": "130.63.45.20",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.175.157",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD128,EEPROM V.28.59,CIDATE 05/10/2005\u000asysName:cst-4250"} } ] }
+,
+{   "ip": "130.63.175.157",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.152.63",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C3004ex 1.04.1 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP C3004ex"} } ] }
+,
+{   "ip": "130.63.152.63",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.71.117",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD147,EEPROM JDI22210020,CIDATE 11/22/2012\u000asysName:NPI74AA8D"} } ] }
+,
+{   "ip": "130.63.71.117",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.51.95",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM V.29.11,JETDIRECT,JD115,EEPROM V.29.13,CIDATE 08/11/2005\u000asysName:hnes5195-hp5550"} } ] }
+,
+{   "ip": "130.63.51.95",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.96.165",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH Aficio SP 8200DN 1.14 / RICOH Network Printer C model\u000asysName:Aficio SP 8200DN"} } ] }
+,
+{   "ip": "130.63.96.165",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.105.23",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQH55728,FN:1L76YY2,SVCID:28184,PID:HP LaserJet M402dn\u000asysName:NPIFFCA73"} } ] }
+,
+{   "ip": "130.63.105.23",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.234.18",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C4500 7.60 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:IM C4500"} } ] }
+,
+{   "ip": "130.63.234.18",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.174.200",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD128,EEPROM V.33.25,CIDATE 01/09/2012\u000asysName:NPI833BD5"} } ] }
+,
+{   "ip": "130.63.174.200",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.57.217",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.57.217",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.17",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C4504 1.13 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP C4504"} } ] }
+,
+{   "ip": "130.63.129.17",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.156.195",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5055 1.11 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP 5055"} } ] }
+,
+{   "ip": "130.63.156.195",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.17.36",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23900055,CIDATE 07/21/2022\u000asysName:NPIAB255F"} } ] }
+,
+{   "ip": "130.63.17.36",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.243.100",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23250001,CIDATE 04/21/2014\u000asysName:NPI249B0F"} } ] }
+,
+{   "ip": "130.63.243.100",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.126.58",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM 5000 7.33 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:IM 5000"} } ] }
+,
+{   "ip": "130.63.126.58",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.166.22",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Dell Laser Printer W5300 version 55.10.61 kernel 2.4.0-test6 All-N-1\u000asysName:uit wts stl104 "} } ] }
+,
+{   "ip": "130.63.166.22",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.20.234",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.20.234",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.65.188",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD137,EEPROM V.37.18,CIDATE 11/13/2014,IT debuglite\u000asysName:NPI91FADA"} } ] }
+,
+{   "ip": "130.63.65.188",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.156.14",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C6004 1.36.3 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP C6004"} } ] }
+,
+{   "ip": "130.63.156.14",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.94.231",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HPE OfficeConnect Switch 1820 24G J9980A, PT.02.01, Linux 3.6.5-79c95a77, U-Boot 2012.10-00116-g3ab515c (Jul 30 2014 - 10:52:01)\u000asysName:"} } ] }
+,
+{   "ip": "130.63.94.231",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.163.10",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C3004 1.03.1 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP C3004"} } ] }
+,
+{   "ip": "130.63.163.10",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.243.17",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI2200023,CIDATE 06/13/2012\u000asysName:NPIF42953"} } ] }
+,
+{   "ip": "130.63.243.17",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.190.74",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C3000 2.21 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:IM C3000"} } ] }
+,
+{   "ip": "130.63.190.74",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.61.81",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.44.00,CIDATE 01/16/2017\u000asysName:AP-SOWKS854-HP4414"} } ] }
+,
+{   "ip": "130.63.61.81",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.48",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD128,EEPROM V.28.63,CIDATE 04/07/2006\u000asysName:SB-N305H-HP-LaserJet-4350"} } ] }
+,
+{   "ip": "130.63.129.48",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.17.208",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD148,EEPROM V.43.21,CIDATE 11/06/2012\u000asysName:NPI087DFD"} } ] }
+,
+{   "ip": "130.63.17.208",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.144.208",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.144.208",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.182.136",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Room Alert 3E v2.2.2            \u000asysName:protocolpolice"} } ] }
+,
+{   "ip": "130.63.182.136",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.50.116",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C4504ex 1.14 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP C4504ex"} } ] }
+,
+{   "ip": "130.63.50.116",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.155.13",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C307 1.21 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP C307"} } ] }
+,
+{   "ip": "130.63.155.13",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.83.18",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH Aficio MP 5002 2.13 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:Aficio MP 5002"} } ] }
+,
+{   "ip": "130.63.83.18",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.64.116",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:VNBRR2D2WJ,FN:0893G3W,SVCID:10099,PID:HP Color LaserJet MFP M283fdw\u000asysName:NPIAFF2E2"} } ] }
+,
+{   "ip": "130.63.64.116",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.162.45",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C6004 1.09 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP C6004"} } ] }
+,
+{   "ip": "130.63.162.45",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.149.223",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.44.00,CIDATE 01/16/2017\u000asysName:UIT-VPS-W221G-HP4250-ADV-STNDNG"} } ] }
+,
+{   "ip": "130.63.149.223",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.182.15",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23900041,CIDATE 01/15/2019\u000asysName:NPI49ED14"} } ] }
+,
+{   "ip": "130.63.182.15",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.243.103",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23900053,CIDATE 07/20/2022\u000asysName:NPI074376"} } ] }
+,
+{   "ip": "130.63.243.103",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.37",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23e80161,CIDATE 07/11/2016\u000asysName:NPI0FF620"} } ] }
+,
+{   "ip": "130.63.129.37",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.7.21",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.44.00,CIDATE 01/16/2017\u000asysName:NPI7CABC6"} } ] }
+,
+{   "ip": "130.63.7.21",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.110.49",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:VNB8J5NDSW,FN:ZK82NYK,SVCID:26295,PID:HP Color LaserJet MFP M277dw\u000asysName:NPI61D80D"} } ] }
+,
+{   "ip": "130.63.110.49",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.48.42",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23e80125,CIDATE 07/11/2016\u000asysName:NPI06ED22"} } ] }
+,
+{   "ip": "130.63.48.42",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.65.197",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23000013,CIDATE 07/13/2013\u000asysName:NPI1BFDDE"} } ] }
+,
+{   "ip": "130.63.65.197",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.14.129",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 6055 1.17.1 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 6055"} } ] }
+,
+{   "ip": "130.63.14.129",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.50.121",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C6003 1.45 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP C6003"} } ] }
+,
+{   "ip": "130.63.50.121",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.160.210",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C6000 7.61 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:IM C6000"} } ] }
+,
+{   "ip": "130.63.160.210",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.24.2",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.24.2",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.160.48",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD128,EEPROM V.28.63,CIDATE 04/07/2006\u000asysName:AK-SOCSC302-HP4350DTN"} } ] }
+,
+{   "ip": "130.63.160.48",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.36.83",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23900036,CIDATE 01/15/2019\u000asysName:NPIB2D47C"} } ] }
+,
+{   "ip": "130.63.36.83",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.48.36",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 3555 1.27 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 3555"} } ] }
+,
+{   "ip": "130.63.48.36",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.65.254",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT\u000asysName:homelesshub-prt01"} } ] }
+,
+{   "ip": "130.63.65.254",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.35.129",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.35.129",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.124.138",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:AccurioPrint C4065\u000asysName:"} } ] }
+,
+{   "ip": "130.63.124.138",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.14.24",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C3000 2.21 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:IM C3000"} } ] }
+,
+{   "ip": "130.63.14.24",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.124.29",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:KONICA MINOLTA bizhub C360i\u000asysName:"} } ] }
+,
+{   "ip": "130.63.124.29",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.85.198",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23e80125,CIDATE 07/11/2016\u000asysName:NPIBC5023"} } ] }
+,
+{   "ip": "130.63.85.198",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.43",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT\u000asysName:HPBE470A"} } ] }
+,
+{   "ip": "130.63.129.43",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.117.87",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Xerox WorkCentre 7845 v1 Multifunction System; System Software 071.040.103.23400, ESS 071.043.23410.LL\u000asysName:XRX9C934E32FDA4"} } ] }
+,
+{   "ip": "130.63.117.87",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.82.35",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Lexmark MC3224dwe version CXLBL.081.225 kernel 5.4.90-yocto-standard All-N-1\u000asysName:ET788C77F8A7E7"} } ] }
+,
+{   "ip": "130.63.82.35",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.104.44",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT\u000asysName:HPFD58A5"} } ] }
+,
+{   "ip": "130.63.104.44",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.35.130",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.35.130",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.232.171",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:CND9D8TCKF,FN:P956YMR,SVCID:22320,PID:HP LaserJet M1536dnf MFP\u000asysName:NPI187263"} } ] }
+,
+{   "ip": "130.63.232.171",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.160.21",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C6004ex 1.05 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP C6004ex"} } ] }
+,
+{   "ip": "130.63.160.21",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.71.21",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.43.39,CIDATE 01/27/2014\u000asysName:NPI25759B"} } ] }
+,
+{   "ip": "130.63.71.21",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.204.43",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Crestron Electronics AM-100 (Version 2.8.0.27)\u000asysName:AirMedia-18728f"} } ] }
+,
+{   "ip": "130.63.204.43",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.29.126",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.29.126",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.92.55",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C6004 1.09 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP C6004"} } ] }
+,
+{   "ip": "130.63.92.55",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.160.205",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 6055 1.11 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 6055"} } ] }
+,
+{   "ip": "130.63.160.205",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.186.39",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Brother NC-8900h, Firmware Ver.ZL  ,MID 8C5-J74,FID 2\u000asysName:BRN30055CE33A2A"} } ] }
+,
+{   "ip": "130.63.186.39",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.58.14",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24070006,CIDATE 11/08/2018\u000asysName:NPI3D4834"} } ] }
+,
+{   "ip": "130.63.58.14",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.204.27",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Crestron Electronics AM-100 (Version 2.6.0.12)\u000asysName:AirMedia-187292"} } ] }
+,
+{   "ip": "130.63.204.27",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.96.103",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH Aficio SP 8200DN 1.14 / RICOH Network Printer C model\u000asysName:Aficio SP 8200DN"} } ] }
+,
+{   "ip": "130.63.96.103",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.239.122",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI25066003,CIDATE 04/18/2023\u000asysName:kklab"} } ] }
+,
+{   "ip": "130.63.239.122",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.108.18",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 6055 1.08 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 6055"} } ] }
+,
+{   "ip": "130.63.108.18",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.126.61",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5054 1.17 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP 5054"} } ] }
+,
+{   "ip": "130.63.126.61",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.108.12",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C6004ex 1.04.1 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP C6004ex"} } ] }
+,
+{   "ip": "130.63.108.12",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.50",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:PHBLKBW9Q4,FN:1M900CX,SVCID:28005,PID:HP LaserJet MFP M426fdn\u000asysName:NPI43BD40"} } ] }
+,
+{   "ip": "130.63.129.50",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.243.84",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Xerox Phaser 7800GX; System Software 081.150.102.23300, ESS 0.040.0.0\u000asysName:Phaser 7800GX"} } ] }
+,
+{   "ip": "130.63.243.84",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.177",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Xerox 4127;System 9.3.2,ESS PS1.211.1,IOT 46.18.0,HCF 4.6.0,FIN D4.8.3,IFM7.14.0,IIT 15.6.1,IIT D14.0.4,ADF 12.2.7,SJFI3.0.12,SSMI1.11.0\u000asysName:4127"} } ] }
+,
+{   "ip": "130.63.129.177",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.84.205",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD148,EEPROM V.43.39,CIDATE 01/27/2014\u000asysName:NPI0E88EB"} } ] }
+,
+{   "ip": "130.63.84.205",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.238.41",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Powerware 9130 3000\u000asysName:ups87"} } ] }
+,
+{   "ip": "130.63.238.41",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.76.213",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:\u000asysName:idrac-FX3WHX1"} } ] }
+,
+{   "ip": "130.63.76.213",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.177.60",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:VNB3M11213,FN:1G30SC0,SVCID:28287,PID:HP Color LaserJet M452dn\u000asysName:NPIC1D7EA"} } ] }
+,
+{   "ip": "130.63.177.60",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.130.183",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5055 1.08 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 5055"} } ] }
+,
+{   "ip": "130.63.130.183",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.160.12",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5055 1.11 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 5055"} } ] }
+,
+{   "ip": "130.63.160.12",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.192.228",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 3555 1.08 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP 3555"} } ] }
+,
+{   "ip": "130.63.192.228",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.50.31",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5054 1.17 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP 5054"} } ] }
+,
+{   "ip": "130.63.50.31",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.166.52",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23900041,CIDATE 01/15/2019\u000asysName:NPI8F4101"} } ] }
+,
+{   "ip": "130.63.166.52",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.63.84",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:\u000asysName:idrac-JBVFDH2"} } ] }
+,
+{   "ip": "130.63.63.84",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.124.104",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:EPSON UIB 10/100Base-T Ethernet Interface Card\u000asysName:UB-E7D441CENPC"} } ] }
+,
+{   "ip": "130.63.124.104",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.163.69",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5055 1.17.1 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 5055"} } ] }
+,
+{   "ip": "130.63.163.69",   "timestamp": "1692978313", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.15",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI25050010,CIDATE 06/01/2022\u000asysName:NPI09A835"} } ] }
+,
+{   "ip": "130.63.129.15",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.121.62",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:2161DS-2 01.01.00.00\u000asysName:2161DS-2-06-C2-B4"} } ] }
+,
+{   "ip": "130.63.121.62",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.55.91",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.43.39,CIDATE 01/27/2014\u000asysName:ES-HNES289A-PRN"} } ] }
+,
+{   "ip": "130.63.55.91",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.9.94",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.9.94",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.17.148",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.44.00,CIDATE 01/16/2017\u000asysName:NPI7BEFDA"} } ] }
+,
+{   "ip": "130.63.17.148",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.24.1",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.24.1",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.155.104",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C4500 7.60 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:IM C4500"} } ] }
+,
+{   "ip": "130.63.155.104",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.42",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT\u000asysName:SB-N304A"} } ] }
+,
+{   "ip": "130.63.129.42",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.32",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI2200023,CIDATE 06/13/2012\u000asysName:NPI14E2DA"} } ] }
+,
+{   "ip": "130.63.129.32",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.136.68",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Canon D1300 Series /P\u000asysName:D1300 Series"} } ] }
+,
+{   "ip": "130.63.136.68",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.20.233",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.20.233",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.76.101",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:\u000asysName:idrac-HQM8R53"} } ] }
+,
+{   "ip": "130.63.76.101",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.149.167",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.36.36,CIDATE 04/10/2008\u000asysName:UIT-VPS-N200"} } ] }
+,
+{   "ip": "130.63.149.167",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.126.33",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5055 1.22 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 5055"} } ] }
+,
+{   "ip": "130.63.126.33",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.156.19",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD146,EEPROM V.43.92,CIDATE 07/21/2015\u000asysName:NPI429E43"} } ] }
+,
+{   "ip": "130.63.156.19",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.244.13",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD128,EEPROM V.28.63,CIDATE 04/07/2006\u000asysName:NPI854F8B"} } ] }
+,
+{   "ip": "130.63.244.13",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.33",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD148,EEPROM V.43.16,CIDATE 07/13/2012\u000asysName:NPIEB8A1B"} } ] }
+,
+{   "ip": "130.63.129.33",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.93.123",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT\u000asysName:DEV138A65"} } ] }
+,
+{   "ip": "130.63.93.123",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.36.82",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24060004,CIDATE 04/23/2018\u000asysName:BOOK03"} } ] }
+,
+{   "ip": "130.63.36.82",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.151.152",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.36.42,CIDATE 11/04/2009\u000asysName:W222B-BATCHTRANS"} } ] }
+,
+{   "ip": "130.63.151.152",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.156.248",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C3004ex 1.06 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP C3004ex"} } ] }
+,
+{   "ip": "130.63.156.248",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.132.38",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:VND3J03463,FN:3K34HMW,SVCID:10230,PID:protocolpolice\u000asysName:NPI5AAA20"} } ] }
+,
+{   "ip": "130.63.132.38",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.95.100",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH SP 8400DN 1.08 / RICOH Network Printer C model\u000asysName:SP 8400DN"} } ] }
+,
+{   "ip": "130.63.95.100",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.143.45",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C4500 7.61 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:IM C4500"} } ] }
+,
+{   "ip": "130.63.143.45",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.217",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT\u000asysName:SB-X101-HP-4101DW"} } ] }
+,
+{   "ip": "130.63.129.217",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.64.36",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Brother NC-8900h, Firmware Ver.ZU  ,MID 8C5-J87,FID 2\u000asysName:BRN3C2AF45CE10F"} } ] }
+,
+{   "ip": "130.63.64.36",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.142.11",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5054 1.16 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 5054"} } ] }
+,
+{   "ip": "130.63.142.11",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.36.122",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Monarch ADTP2 FW Ver V3.9, 802.11b-g-n WiFi FW Ver 1.0\u000asysName:PXRB80679"} } ] }
+,
+{   "ip": "130.63.36.122",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.175.23",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C4504ex 1.13 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP C4504ex"} } ] }
+,
+{   "ip": "130.63.175.23",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.186.50",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT\u000asysName:HPAB29CD"} } ] }
+,
+{   "ip": "130.63.186.50",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.141.121",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH SP 8400DN 1.09 / RICOH Network Printer C model\u000asysName:SP 8400DN"} } ] }
+,
+{   "ip": "130.63.141.121",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.36.11",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.36.11",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.163.249",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM 5000 7.33 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:IM 5000"} } ] }
+,
+{   "ip": "130.63.163.249",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.72.162",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Linux collab-prox.uit.yorku.ca 2.6.32-754.48.1.el6.x86_64 #1 SMP Tue Jul 5 16:40:13 EDT 2022 x86_64\u000asysName:collab-prox.uit.yorku.ca"} } ] }
+,
+{   "ip": "130.63.72.162",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.84.22",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Canon MF632C/634C /P\u000asysName:MF632C/634C"} } ] }
+,
+{   "ip": "130.63.84.22",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.126.73",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5054 1.17 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 5054"} } ] }
+,
+{   "ip": "130.63.126.73",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.63.94",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:AlphaServer DS10L 466 MHz, VMS , MultiNet(R) for OpenVMS V5.5, Copyright (c) 2015 Process Software\u000asysName:QUASAR.PHYS.YORKU.CA"} } ] }
+,
+{   "ip": "130.63.63.94",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.52.16",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23200024,CIDATE 11/14/2013\u000asysName:NPI755D3F"} } ] }
+,
+{   "ip": "130.63.52.16",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.151.170",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD128,EEPROM V.28.63,CIDATE 04/07/2006\u000asysName:UIT-VPS-W222A-HP4350"} } ] }
+,
+{   "ip": "130.63.151.170",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.105.131",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD148,EEPROM V.44.00,CIDATE 01/05/2017\u000asysName:NPIFE9AD6"} } ] }
+,
+{   "ip": "130.63.105.131",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.149.201",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23500060,CIDATE 03/18/2015\u000asysName:UIT-VPS-W222Q"} } ] }
+,
+{   "ip": "130.63.149.201",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.170.1",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.170.1",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.148.17",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5055 1.27 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 5055"} } ] }
+,
+{   "ip": "130.63.148.17",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.187.171",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Canon iR-ADV C5850 /P\u000asysName:iR-ADV C5850"} } ] }
+,
+{   "ip": "130.63.187.171",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.243.45",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23701070,CIDATE 02/24/2016\u000asysName:NPI12113B"} } ] }
+,
+{   "ip": "130.63.243.45",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.234.14",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C6000 7.61 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:IM C6000"} } ] }
+,
+{   "ip": "130.63.234.14",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.92.188",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD145,EEPROM V.44.00,CIDATE 01/13/2017\u000asysName:las1012-col"} } ] }
+,
+{   "ip": "130.63.92.188",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.152.75",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD128,EEPROM V.33.30,CIDATE 03/25/2017\u000asysName:NPIF1ACD3"} } ] }
+,
+{   "ip": "130.63.152.75",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.126.71",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM 6000 7.33 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:IM 6000"} } ] }
+,
+{   "ip": "130.63.126.71",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.133.111",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Brother NC-9300h, Firmware Ver.Z  ,MID 8C5-K3JFID 2\u000asysName:BRNB42200647F34"} } ] }
+,
+{   "ip": "130.63.133.111",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.182.10",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23600140,CIDATE 07/21/2015\u000asysName:NPIB2B4F2"} } ] }
+,
+{   "ip": "130.63.182.10",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.124.77",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:KONICA MINOLTA bizhub C258\u000asysName:"} } ] }
+,
+{   "ip": "130.63.124.77",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.163.101",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C4510 1.05.1 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:IM C4510"} } ] }
+,
+{   "ip": "130.63.163.101",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.34.101",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr: V6.8.0.2 (120628)\u000asysName:"} } ] }
+,
+{   "ip": "130.63.34.101",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.64.24",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD145,EEPROM V.44.00,CIDATE 01/13/2017\u000asysName:UIT-VPA-HP4525"} } ] }
+,
+{   "ip": "130.63.64.24",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.140.32",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:PHB8J3470W,FN:1M40V54,SVCID:26309,PID:HP LaserJet MFP M426fdn\u000asysName:clh019-printer"} } ] }
+,
+{   "ip": "130.63.140.32",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.126.250",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C6004ex 1.13 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP C6004ex"} } ] }
+,
+{   "ip": "130.63.126.250",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.50.17",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 6055 1.17.1 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP 6055"} } ] }
+,
+{   "ip": "130.63.50.17",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.20.205",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.20.205",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.40.246",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.40.246",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.92.156",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM V.29.11,JETDIRECT,JD115,EEPROM V.29.12,CIDATE 03/23/2005\u000asysName:cse1003j"} } ] }
+,
+{   "ip": "130.63.92.156",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.123.32",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:CNB6D5P07M,FN:VK01N80,SVCID:22268,PID:HP LaserJet 400 MFP M425dn\u000asysName:NPI9F1F82"} } ] }
+,
+{   "ip": "130.63.123.32",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.138.78",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:CNDF260799,FN:Q5448TN,SVCID:24223,PID:HP LaserJet 400 color M451dn\u000asysName:NPI0E25CE"} } ] }
+,
+{   "ip": "130.63.138.78",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.160.50",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 3555 1.19 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 3555"} } ] }
+,
+{   "ip": "130.63.160.50",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.192.154",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23500067,CIDATE 06/08/2015\u000asysName:UIT-VPS-W322S"} } ] }
+,
+{   "ip": "130.63.192.154",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.76.94",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:\u000asysName:idrac-FP12FB2"} } ] }
+,
+{   "ip": "130.63.76.94",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.162.29",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C4500 7.61 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:IM C4500"} } ] }
+,
+{   "ip": "130.63.162.29",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.120.63",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI24110033,CIDATE 07/20/2022\u000asysName:NPIDE1D6A"} } ] }
+,
+{   "ip": "130.63.120.63",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.166.114",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:CNGCJCH092,FN:N181VLE,SVCID:27018,PID:HP Color LaserJet CP5225dn\u000asysName:NPI089531"} } ] }
+,
+{   "ip": "130.63.166.114",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.105.185",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 2554 1.28 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 2554"} } ] }
+,
+{   "ip": "130.63.105.185",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.104.217",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT\u000asysName:HP8CB562"} } ] }
+,
+{   "ip": "130.63.104.217",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.85.195",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM G.07.19,JETDIRECT,JD33,EEPROM G.07.17\u000asysName:NPI1CD503"} } ] }
+,
+{   "ip": "130.63.85.195",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.142.246",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:KONICA MINOLTA bizhub 554e\u000asysName:"} } ] }
+,
+{   "ip": "130.63.142.246",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.169.152",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.44.00,CIDATE 01/16/2017\u000asysName:NPI3C00B9"} } ] }
+,
+{   "ip": "130.63.169.152",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.148.23",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:VND3201215,FN:X5405LM,SVCID:23115,PID:HP LaserJet 400 M401n\u000asysName:NPI63D49F"} } ] }
+,
+{   "ip": "130.63.148.23",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.179.15",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23900050,CIDATE 02/12/2022\u000asysName:NPIDC21AA"} } ] }
+,
+{   "ip": "130.63.179.15",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.151.186",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23e80129,CIDATE 09/22/2017\u000asysName:UIT-VPS-W322D-HP603"} } ] }
+,
+{   "ip": "130.63.151.186",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.198.109",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:KONICA MINOLTA bizhub C360i\u000asysName:"} } ] }
+,
+{   "ip": "130.63.198.109",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.160.15",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD128,EEPROM V.28.59,CIDATE 05/10/2005\u000asysName:AK-EQ306-HP4700n"} } ] }
+,
+{   "ip": "130.63.160.15",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.124.13",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:KONICA MINOLTA bizhub C558\u000asysName:"} } ] }
+,
+{   "ip": "130.63.124.13",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.65.193",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM V50251103114,CIDATE 11/17/2011\u000asysName:NPI9267FD"} } ] }
+,
+{   "ip": "130.63.65.193",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.160.22",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5055 1.17.1 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 5055"} } ] }
+,
+{   "ip": "130.63.160.22",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.136.15",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Lexmark CS310dn version NH63.VY.N639 kernel 3.0.0 All-N-1\u000asysName:ET0021B753690A"} } ] }
+,
+{   "ip": "130.63.136.15",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.244.18",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23900041,CIDATE 01/15/2019\u000asysName:NPI8FD0AE"} } ] }
+,
+{   "ip": "130.63.244.18",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.92.64",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD148,EEPROM V.38.97,CIDATE 08/30/2010\u000asysName:cse1003c"} } ] }
+,
+{   "ip": "130.63.92.64",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.110.166",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23700101,CIDATE 12/10/2015\u000asysName:NPI11D91D"} } ] }
+,
+{   "ip": "130.63.110.166",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.151.64",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:CNBJ268811,FN:F840XTK,SVCID:17144,PID:UIT-VPS-CDC-BCSSN101-HP3052\u000asysName:cdchp3052"} } ] }
+,
+{   "ip": "130.63.151.64",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.104.24",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:APC Web/SNMP Management Card (MB:v3.8.6 PF:v5.1.3 PN:apc_hw05_aos_513.bin AF1:v5.1.3 AN1:apc_hw05_sumx_513.bin MN:AP9631 HR:05 SN: ZA1118013208 MD:04/27/2011) (Embedded PowerNet SNMP Agent SW v2.2 compatible)\u000asysName:Unknown"} } ] }
+,
+{   "ip": "130.63.104.24",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.44.15",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23e80161,CIDATE 07/11/2016\u000asysName:NPI260055"} } ] }
+,
+{   "ip": "130.63.44.15",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.244.236",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI25020013,CIDATE 03/31/2021\u000asysName:NPIEDC46D"} } ] }
+,
+{   "ip": "130.63.244.236",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.136.16",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Brother NC-8500h, Firmware Ver.1.16  (16.06.28),MID 8CE-415,FID 2\u000asysName:BRN30055CE8329B"} } ] }
+,
+{   "ip": "130.63.136.16",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.53.115",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD128,EEPROM V.33.21,CIDATE 02/04/2010\u000asysName:s336_p1"} } ] }
+,
+{   "ip": "130.63.53.115",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.126.252",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C307 1.18 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP C307"} } ] }
+,
+{   "ip": "130.63.126.252",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.64.90",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI25050010,CIDATE 06/01/2022\u000asysName:NPICDB3AE"} } ] }
+,
+{   "ip": "130.63.64.90",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.126.246",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM 350 1.04 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:IM 350"} } ] }
+,
+{   "ip": "130.63.126.246",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.104.90",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Xerox Phaser 6600N; Network 90.99, Controller 201407180655, Engine 02.00.01, Boot 201206050608, PCL5 201304191720, PCL6 201304191720, PostScript 201304232059, PDF 201312181737\u000asysName:Phaser 6600N-6BE50E"} } ] }
+,
+{   "ip": "130.63.104.90",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.22.115",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD148,EEPROM V.43.39,CIDATE 07/16/2014\u000asysName:hnes302-hp3015n"} } ] }
+,
+{   "ip": "130.63.22.115",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.105.15",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:VNBRQ5B2JH,FN:0852PSY,SVCID:10121,PID:HP Color LaserJet MFP M283fdw\u000asysName:NPI0B2CAF"} } ] }
+,
+{   "ip": "130.63.105.15",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.198.70",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:EPSON 11a/b/g/n/ac \u0026 10/100 Print Server\u000asysName:EPD04D7DENSN4"} } ] }
+,
+{   "ip": "130.63.198.70",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.126.70",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM 6000 7.33 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:IM 6000"} } ] }
+,
+{   "ip": "130.63.126.70",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.143.50",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.143.50",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.151.192",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23600140,CIDATE 07/21/2015\u000asysName:NPI503B8D"} } ] }
+,
+{   "ip": "130.63.151.192",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.17.150",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:CNDF355142,FN:Q543EQG,SVCID:24256,PID:HP LaserJet 400 color M451dn\u000asysName:NPIBAF2F2"} } ] }
+,
+{   "ip": "130.63.17.150",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.163.11",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.36.35,CIDATE 09/18/2007\u000asysName:NPI16C8BE"} } ] }
+,
+{   "ip": "130.63.163.11",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.160.44",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.160.44",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.44.49",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23700101,CIDATE 12/10/2015\u000asysName:NPI134A2E"} } ] }
+,
+{   "ip": "130.63.44.49",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.96.102",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH Aficio SP 8200DN 1.09 / RICOH Network Printer C model\u000asysName:Aficio SP 8200DN"} } ] }
+,
+{   "ip": "130.63.96.102",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.14.169",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.14.169",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.83.19",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C4510 1.05.1 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:IM C4510"} } ] }
+,
+{   "ip": "130.63.83.19",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.121.47",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23400008,CIDATE 11/21/2014\u000asysName:NPI760CCB"} } ] }
+,
+{   "ip": "130.63.121.47",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.159.65",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23900010,CIDATE 12/12/2017\u000asysName:NPIDAEDAE"} } ] }
+,
+{   "ip": "130.63.159.65",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.179.13",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23e80125,CIDATE 07/11/2016\u000asysName:Design_Studio_Red"} } ] }
+,
+{   "ip": "130.63.179.13",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.64.12",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23500067,CIDATE 06/08/2015\u000asysName:UIT-PRESOFFICE-HPM651"} } ] }
+,
+{   "ip": "130.63.64.12",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.143.56",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 3555 1.13 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 3555"} } ] }
+,
+{   "ip": "130.63.143.56",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.143.49",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 5055 1.14 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP 5055"} } ] }
+,
+{   "ip": "130.63.143.49",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.110.40",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Lexmark C748 version NH.HS30.N304 kernel 2.6.28.10.1 All-N-1\u000asysName:ET0021B75E9F34"} } ] }
+,
+{   "ip": "130.63.110.40",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.97.146",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23e80161,CIDATE 07/11/2016\u000asysName:las2052"} } ] }
+,
+{   "ip": "130.63.97.146",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.247.205",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Novell NetWare 5.00.10  February 27, 2003\u000d\u000anull\u000asysName:ZEN1"} } ] }
+,
+{   "ip": "130.63.247.205",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.130.38",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 6054 1.12 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:MP 6054"} } ] }
+,
+{   "ip": "130.63.130.38",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.20.209",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.20.209",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.199.219",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:EPSON 11a/b/g/n/ac \u0026 10/100 Print Server\u000asysName:EP7CB97DENSN4"} } ] }
+,
+{   "ip": "130.63.199.219",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.181.13",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C4500 7.60 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:IM C4500"} } ] }
+,
+{   "ip": "130.63.181.13",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.20.230",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.20.230",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.142.234",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Xerox WorkCentre 7845 v1 Multifunction System; System Software 071.040.034.06000, ESS 071.044.06010.LL\u000asysName:cs163a-printer-2"} } ] }
+,
+{   "ip": "130.63.142.234",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.243.61",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23700101,CIDATE 12/10/2015\u000asysName:NPI5436A6"} } ] }
+,
+{   "ip": "130.63.243.61",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.48.29",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C401 1.18 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP C401"} } ] }
+,
+{   "ip": "130.63.48.29",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.129.207",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP 3555 1.26.1 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP 3555"} } ] }
+,
+{   "ip": "130.63.129.207",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.179.17",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Xerox Phaser 7500DT; System 1.3.8.P, OS 9.49, PS 5.22.1, Eng 40.12.1, Net 42.63.10.11.2013, Adobe PostScript 3016.101 (15), PCL 5c Version 5.0\u000asysName:MDes Phaser 7500DT"} } ] }
+,
+{   "ip": "130.63.179.17",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.36.129",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C3004ex 1.04.1 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP C3004ex"} } ] }
+,
+{   "ip": "130.63.36.129",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.64.26",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,SN:PHBTR50112,FN:3E21P5P,SVCID:29183,PID:HP LaserJet Pro M501dn\u000asysName:NPI433981"} } ] }
+,
+{   "ip": "130.63.64.26",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.48.50",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH IM C3000 2.23 / RICOH Network Printer C model / RICOH Network Scanner C model\u000asysName:IM C3000"} } ] }
+,
+{   "ip": "130.63.48.50",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.69.190",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23700101,CIDATE 12/10/2015\u000asysName:NPIAFE9D2"} } ] }
+,
+{   "ip": "130.63.69.190",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.95.91",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH SP 8400DN 1.09 / RICOH Network Printer C model\u000asysName:SP 8400DN"} } ] }
+,
+{   "ip": "130.63.95.91",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.133.196",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT\u000asysName:HP8E997F"} } ] }
+,
+{   "ip": "130.63.133.196",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.72.164",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:Linux collab-prox.uit.yorku.ca 2.6.32-754.48.1.el6.x86_64 #1 SMP Tue Jul 5 16:40:13 EDT 2022 x86_64\u000asysName:collab-prox.uit.yorku.ca"} } ] }
+,
+{   "ip": "130.63.72.164",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.71.251",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD128,EEPROM V.33.25,CIDATE 01/09/2012\u000asysName:NPI3DFE25"} } ] }
+,
+{   "ip": "130.63.71.251",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.90.119",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23500064,CIDATE 06/09/2015\u000asysName:NPIAB8486"} } ] }
+,
+{   "ip": "130.63.90.119",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.95.21",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH Aficio SP C411DN 1.10 / RICOH Network Printer C model\u000asysName:Aficio SP C411DN"} } ] }
+,
+{   "ip": "130.63.95.21",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.92.186",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": ""} } ] }
+,
+{   "ip": "130.63.92.186",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.177.43",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:HP ETHERNET MULTI-ENVIRONMENT,ROM V.29.11,JETDIRECT,JD115,EEPROM V.29.13,CIDATE 08/11/2005\u000asysName:UIT-HH-PSYCH_KATZ_LAB_HP4300"} } ] }
+,
+{   "ip": "130.63.177.43",   "timestamp": "1692978314", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+,
+{   "ip": "130.63.14.61",   "timestamp": "1692978315", "ports": [ {"port": 161, "proto": "udp", "service": {"name": "snmp", "banner": "sysDescr:RICOH MP C6004ex 1.04.1 / RICOH Network Printer C model / RICOH Network Scanner C model / RICOH Network Facsimile C model\u000asysName:MP C6004ex"} } ] }
+,
+{   "ip": "130.63.14.61",   "timestamp": "1692978315", "ports": [ {"port": 161, "proto": "udp", "status": "open", "reason": "none", "ttl": 0} ] }
+]
